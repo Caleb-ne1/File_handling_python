@@ -1,0 +1,6 @@
+File handling is a fundamental aspect of programming that involves working with files stored on a computer's storage system. It allows a program to read data from files, write data to files, create new files, delete files, and perform various operations on files.
+12345
+Exceptions are raised when the program encounters an error during its execution.
+Appending line 1
+Appending line 2
+Appending line 3
